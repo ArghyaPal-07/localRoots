@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Calendar, DollarSign, Star, TrendingUp, Clock, MessageSquare, ArrowRight } from "lucide-react";
 import { HOSTS, EXPERIENCES, GUESTS } from "@/mockData";
 
