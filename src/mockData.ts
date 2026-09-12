@@ -9,7 +9,7 @@ export const EXPERIENCES = [
     hostId: 'host-1',
     tags: ['Food', 'Culture', 'History'],
     location: 'College Street, Kolkata',
-    image: 'https://images.unsplash.com/photo-1587316694883-9b9a67440938?auto=format&fit=crop&q=80',
+    image: 'https://i.pinimg.com/736x/60/7b/d6/607bd6d4add31f66e0ea53d9471644a1.jpg',
     description: 'Explore the hidden alleys of College Street, tasting authentic Bengali street food and listening to stories of the city\'s past.',
     crowdLevel: '🟢 Recommended',
     included: ['Street food tasting', 'Local history', 'Photography stops', 'Neighborhood exploration']
@@ -39,7 +39,7 @@ export const EXPERIENCES = [
     hostId: 'host-3',
     tags: ['Art', 'Culture'],
     location: 'Kumartuli',
-    image: 'https://images.unsplash.com/photo-1605335952601-094ee7329737?auto=format&fit=crop&q=80',
+    image: 'https://i.pinimg.com/1200x/b6/75/bc/b675bc52624b11cf7d8648fd24bd0e5e.jpg',
     description: 'Visit the potters\' quarter and witness the making of magnificent clay idols.',
     crowdLevel: '🟠 Moderate',
     included: ['Studio visits', 'Artisan interactions', 'Local transport']
